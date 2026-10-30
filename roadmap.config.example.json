@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://sistemas.agricultura.gov.br/redmine/",
+  "apiKey": "",
+  "projects": [
+    "desenvolver-solucao-de-fiscalizacao-sda",
+    "desafio-ia-segunda-rodada-chat-observatorio-agropecuario",
+    "desafio-ia-interno-sistema-de-apoio-a-fiscalizacao-de-remessas"
+  ],
+  "outputDir": "output/roadmaps"
+}
